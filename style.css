@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: #fde9e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.banner-container {
+    width: 100%;
+    max-width: 2100px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.responsive-banner {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+}
