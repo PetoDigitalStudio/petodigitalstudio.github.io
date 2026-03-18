@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ju_priroda_maksmir_zp_tocke" id="ju_priroda_maksmir_zp_tocke">
+	<SimpleField name="zasticeno_" type="float"></SimpleField>
+	<SimpleField name="kategorija" type="float"></SimpleField>
+	<SimpleField name="kategori_1" type="string"></SimpleField>
+	<SimpleField name="podkategor" type="string"></SimpleField>
+	<SimpleField name="naziv" type="string"></SimpleField>
+	<SimpleField name="naziv_akt" type="string"></SimpleField>
+	<SimpleField name="povrsina_m" type="float"></SimpleField>
+	<SimpleField name="broj_regis" type="string"></SimpleField>
+</Schema>
+<Folder><name>ju_priroda_maksmir_zp_tocke</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ju_priroda_maksmir_zp_tocke">
+		<SimpleData name="zasticeno_">4676</SimpleData>
+		<SimpleData name="kategorija">29</SimpleData>
+		<SimpleData name="kategori_1">Spomenik parkovne arhitekture</SimpleData>
+		<SimpleData name="podkategor">Pojedinačno stablo</SimpleData>
+		<SimpleData name="naziv">ZAGREB - MAMUTOVAC II</SimpleData>
+		<SimpleData name="naziv_akt">Obalni mamutovac (Sequoia sempervirens / D.Don/ Endl.)</SimpleData>
+		<SimpleData name="povrsina_m">0.000000000000000</SimpleData>
+		<SimpleData name="broj_regis">405</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>15.9732158391384,45.825323104268</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ju_priroda_maksmir_zp_tocke">
+		<SimpleData name="zasticeno_">4677</SimpleData>
+		<SimpleData name="kategorija">28</SimpleData>
+		<SimpleData name="kategori_1">Spomenik parkovne arhitekture</SimpleData>
+		<SimpleData name="podkategor">Park</SimpleData>
+		<SimpleData name="naziv">ZAGREB - VRT U PRILAZU GJURE DEŽELIĆA</SimpleData>
+		<SimpleData name="naziv_akt">Vrt zgrade u Zagrebu, Prilaz Gjure Deželića 14</SimpleData>
+		<SimpleData name="povrsina_m">0.000000000000000</SimpleData>
+		<SimpleData name="broj_regis">406</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>15.9671392256025,45.8106267398264</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
